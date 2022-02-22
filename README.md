@@ -2,11 +2,11 @@
 
 I have created a [Convolutional Neural Network]() for Classifying Traffic signs.
 
-I have created an [GUI]() format for using the model.
+I have created an [GUI](https://github.com/Anuragtsl/DL-Traffic_Signs_Recognition/blob/main/gui.py) format for using the model.
 
 I have used [Jupyter notebook]() for coding!
 
-***Follow the [notebook]() for more!***
+***Follow the [notebook](https://github.com/Anuragtsl/DL-Traffic_Signs_Recognition/blob/main/Traffic%20Signs%20Recognition.ipynb) for more!***
 
 # Traffic Signs Dataset
 
@@ -16,13 +16,13 @@ The dataset is quite varying, some of the classes have many images while some cl
 
 The size of the dataset is around 300 MB. The dataset has a train folder which contains images inside each class and a test folder which we will use for testing our model.
 
-Download [dataset]() from here!
+Download [dataset](https://github.com/Anuragtsl/DL-Traffic_Signs_Recognition/blob/main/Dataset.txt) from here!
 
 # Preview
 
-![Image1]()
+![Image1](https://github.com/Anuragtsl/DL-Traffic_Signs_Recognition/blob/main/images/1.png)
 
-![Image2]()
+![Image2](https://github.com/Anuragtsl/DL-Traffic_Signs_Recognition/blob/main/images/2.png)
 
 
 
