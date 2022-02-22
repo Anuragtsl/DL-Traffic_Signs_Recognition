@@ -1,10 +1,10 @@
 # DL-Traffic_Signs_Recognition
 
-I have created a [Convolutional Neural Network]() for Classifying Traffic signs.
+I have created a [Convolutional Neural Network](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53) for Classifying Traffic signs.
 
 I have created an [GUI](https://github.com/Anuragtsl/DL-Traffic_Signs_Recognition/blob/main/gui.py) format for using the model.
 
-I have used [Jupyter notebook]() for coding!
+I have used [Jupyter notebook](https://jupyter.org/) for coding!
 
 ***Follow the [notebook](https://github.com/Anuragtsl/DL-Traffic_Signs_Recognition/blob/main/Traffic%20Signs%20Recognition.ipynb) for more!***
 
